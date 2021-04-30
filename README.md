@@ -6,6 +6,8 @@ I'm a computer science student and software developer.
 - 🌱 I’m currently learning twards a CS degree and several web technologies.
 - ⚡ I'm looking forawrd to advance in CI/CD technologies including cloud computing.
 
+</br>
+
 ## My current knowledge and technologies
 
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />]
@@ -20,5 +22,8 @@ I'm a computer science student and software developer.
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />]
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
+
+</br>
+</br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YamSln&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
