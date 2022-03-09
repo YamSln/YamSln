@@ -1,15 +1,3 @@
-### Hi there 👋
-
-I'm a computer science student and software developer.
-
-- 🔭 I’m currently working on multiple web apps including games.
-- 🌱 I’m currently learning twards a CS degree and several web technologies.
-- ⚡ I'm looking forawrd to advance in CI/CD technologies including cloud computing.
-
-</br>
-
-## Tools and Technologies:
-
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
