@@ -2,8 +2,6 @@
 
 <p align="center">
 <img src="https://github.com/YamSln/YamSln/blob/main/rglobe.gif" /> <br/>
-It is always nice to learn new things </br>
-Probably working on a school / self project
 </p>
 
 ---  
