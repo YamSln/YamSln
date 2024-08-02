@@ -33,7 +33,6 @@
 
 <h2> 📈 &nbsp;Stats</h2>
 <a href="https://github.com/YamSln">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YamSln&theme=noctis_minimus&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamSln&theme=noctis_minimus&layout=compact" />
 </a>
   
