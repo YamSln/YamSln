@@ -1,5 +1,3 @@
-<h3 align="center"> 👋 Hey there </h3>
-
 <p align="center">
 <img src="https://github.com/YamSln/YamSln/blob/main/rglobe.gif" /> <br/>
 </p>
